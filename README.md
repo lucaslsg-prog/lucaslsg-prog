@@ -27,7 +27,7 @@
   
   <!--Show icons with links to access my linkedin and instagram-->
   <div> 
- <a align="center" href="https://www.linkedin.com/in/lucasdevtelecom" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a align="center" href="https://www.linkedin.com/in/lucasdevqa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   <a align="center" href="https://instagram.com/lucassantoslsg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
