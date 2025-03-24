@@ -1,7 +1,7 @@
 ### Hi there, i'm Lucas Santos and this is my profile where you can find some cool projects. 👋
 
 
-- 🔭 I’m currently working as QA Full Stack and learning more about Cypress and Jest for developer automation tests
+- 🔭 I’m currently working as QA Full Stack and learning more about DevOps and Playwright for developer automation tests and CI/CD
 
 ##
 <!--Show stats and most used languages-->
